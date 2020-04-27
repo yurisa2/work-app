@@ -29,10 +29,10 @@ Work-App é um aplicativo que visa fazer uma integração entre prestadores de s
 <h2> Desenvolvedores: </h2>
         <ul>    
             <li> 
-                Juan Trindade - <a href="https://google.com.br">Linkedin</a> - <a href="https://google.com.br">GitHub</a>
+                Juan Trindade - <a href="https://www.linkedin.com/in/juan-trindade-a360b8199">Linkedin</a> - <a href="https://google.com.br">GitHub</a>
             </li>
             <li>
-                Hugo Pacheco - <a href="https://google.com.br">Linkedin</a> - <a href="https://google.com.br">GitHub</a> 
+                Hugo Pacheco - <a href="https://google.com.br">Linkedin</a> - <a href="https://github.com/hugokishi">GitHub</a> 
             </li>
             <li>
                 Phelipe Mazieri - <a href="https://google.com.br">Linkedin</a> - <a href="https://google.com.br">GitHub</a>
