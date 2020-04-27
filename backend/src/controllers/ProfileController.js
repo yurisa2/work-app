@@ -4,7 +4,7 @@ const crypto = require('crypto');
 module.exports = {
 
     async index(request, response){
-        const users = await connection('').select('*');
+        const users = await connection('users').select('*');
         return response.json(users);
     },
 
