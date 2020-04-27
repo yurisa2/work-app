@@ -34,7 +34,7 @@ Work-App é um aplicativo que visa fazer uma integração entre prestadores de s
                 Hugo Pacheco - <a href="https://www.linkedin.com/in/hugo-pacheco-8b28721a0">Linkedin</a> - <a href="https://github.com/hugokishi">GitHub</a> 
             </li>
             <li>
-                Phelipe Mazieri - <a href="https://google.com.br">Linkedin</a> - <a href="https://google.com.br">GitHub</a>
+                Phelipe Mazieri - <a href="#">Linkedin</a> - <a href="#">GitHub</a>
             </li>
         </ul>
 
