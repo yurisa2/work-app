@@ -1,9 +1,9 @@
 <h1> :iphone: Work-App </h1>
 <br>
-<h3> Sobre o aplicativo: </h3>
+<h2> Sobre o aplicativo: </h2>
 Work-App é um aplicativo que visa fazer uma integração entre prestadores de serviços autonomos e consumidores. Este software foi desenvolvido para o trabalho de conclusão de curso realizado pelos alunos do curso técnico de Desenvolvimento de Sistemas da ETEC de Barueri.
 
-<h3> Tecnologias Usadas: </h3>
+<h2> Tecnologias Usadas: </h2>
     <ul>
         <li>
           Node.js - Interpretador de JavaScript no lado do servidor.
